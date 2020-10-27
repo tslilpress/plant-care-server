@@ -22,7 +22,7 @@ const plantSchema = new mongoose.Schema({
     type: Number,
     required: true
   },
-  fertilizngFrequency: {
+  fertilizingFrequency: {
     type: Number,
     required: true
   },
