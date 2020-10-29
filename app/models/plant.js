@@ -1,6 +1,10 @@
 const mongoose = require('mongoose')
-
-// const ingredientSchema = require('./ingredient')
+// const moment = require('moment')
+// //
+// // const formatDate = new Date().toString().split(' ').slice(0, 4).join(' '),
+// // const date = moment(formatDate).format('YYYY/MM/DD')
+// const formatDate = new Date()
+// const date = moment(formatDate).format('YYYY/MM/DD')
 
 const plantSchema = new mongoose.Schema({
   plantName: {
