@@ -31,12 +31,10 @@ const plantSchema = new mongoose.Schema({
     required: true
   },
   nextWatering: {
-    type: Date,
-    required: true
+    type: Date
   },
   nextFertilizing: {
-    type: Date,
-    required: true
+    type: Date
   },
   // ingredients: [ingredientSchema],
   owner: {
