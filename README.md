@@ -1,11 +1,11 @@
 # Plant Care (server)
 
-This is the server side app for ![Plant Care](https://tslilpress.github.io/plant-care-client/). A single page application that allows users to keep track of their houseplants watering and fertilizing schedule and reminds them when it's time to water or fertilize their plants.
+This is the server side app for [Plant Care](https://tslilpress.github.io/plant-care-client/). A single page application that allows users to keep track of their houseplants watering and fertilizing schedule and reminds them when it's time to water or fertilize their plants.
 
 ## Important Links
 
-![Client side app repo on git hub](https://github.com/tslilpress/plant-care-client) ----
-![Clent side deployed site](https://tslilpress.github.io/plant-care-client/#/)
+[Client side app repo on git hub](https://github.com/tslilpress/plant-care-client) ----
+[Clent side deployed site](https://tslilpress.github.io/plant-care-client/#/)
 
 ## Planning Story
 I started by creating the plant schema using Mongoose. I then created the cURL scripts to for the different requests (to later test my routes). Finally, I created the CRUD routes using express and tested each route. This process is pretty straight forward and simple since I've done it a couple of times prior.
